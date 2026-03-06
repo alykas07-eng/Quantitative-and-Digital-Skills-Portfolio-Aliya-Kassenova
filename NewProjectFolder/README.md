@@ -1,1 +1,4 @@
+# Skills Demonstrated
 
+Resume Skills Summary
+Conducted a Customer Base Audit using transactional data to evaluate customer acquisition, retention, and profitability patterns. Applied descriptive statistical analysis, customer decile segmentation, cohort analysis, and profit decomposition to identify differences in purchasing behavior and profit contribution across customer groups. Utilized Microsoft Excel for data cleaning, statistical calculations, and visualization of key metrics such as transaction frequency, average order value, and customer profitability. Demonstrated strong analytical and research skills by interpreting customer behavior trends and translating quantitative findings into evidence-based managerial insights on customer retention, segmentation, and long-term profitability.
